@@ -1,0 +1,29 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ec-miscellany dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsi123/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linsi123/gittest/issues"
+  },
+  "homepage": "https://github.com/linsi123/gittest#readme",
+  "dependencies": {
+    "@workec/ec-bridge": "^2.0.8",
+    "@workec/ec-dll": "^1.0.1",
+    "@workec/ec-miscellany": "^1.0.5",
+    "@workec/ec-redux-helper": "^1.0.5",
+    "@workec/eslint-config-ec-react": "^1.0.2",
+    "@workec/form-components": "^0.0.2",
+    "redux-no-reducer-helper": "^1.0.9"
+  }
+}

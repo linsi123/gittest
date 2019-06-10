@@ -1,0 +1,8 @@
+{
+	"title": "Test Page",
+	"references": [
+		"dll_babel",
+		"dll_react",
+		"dll_redux"
+	]
+}

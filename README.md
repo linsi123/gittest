@@ -1,1 +1,1 @@
-# test aaa ss uuu ss ssgit rebase
+# test aaa ssgit rebase
